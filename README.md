@@ -1,2 +1,2 @@
 # CodingBat-Solutions
-My solutions to CodingBat Java problem
+My solutions to CodingBat Java problems
